@@ -24,7 +24,6 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 - SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SignPR_A_Progressive_Vector-Quantized_Diffusion_Framework_for_Sign_Language_Production_CVPR_2026_paper.pdf)]
 - Focal–General Diffusion Model with Semantic Consistent Guidance for Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Focal-General_Diffusion_Model_with_Semantic_Consistent_Guidance_for_Sign_Language_CVPR_2026_paper.pdf)]
 - The Impact of VAE Design on Latent Pose Representations for Diffusion-based Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026W/GenSign/papers/Faure_The_Impact_of_VAE_Design_on_Latent_Pose_Representations_for_CVPRW_2026_paper.pdf)]
-- The Impact of VAE Design on Latent Pose Representations for Diffusion-based Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026W/GenSign/papers/Faure_The_Impact_of_VAE_Design_on_Latent_Pose_Representations_for_CVPRW_2026_paper.pdf)]
 - SignMoD: Sign Language Video Generation via Mixture of Diffusion [TPAMI-ccfa][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11539019)]
 
 ### 2025
