@@ -20,6 +20,13 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 - Sign Language Production: A Review [2021 CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/papers/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.pdf)]
 
 ## Sign Language Production
+### 2026
+- SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SignPR_A_Progressive_Vector-Quantized_Diffusion_Framework_for_Sign_Language_Production_CVPR_2026_paper.pdf)]
+- Focal–General Diffusion Model with Semantic Consistent Guidance for Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Focal-General_Diffusion_Model_with_Semantic_Consistent_Guidance_for_Sign_Language_CVPR_2026_paper.pdf)]
+- The Impact of VAE Design on Latent Pose Representations for Diffusion-based Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026W/GenSign/papers/Faure_The_Impact_of_VAE_Design_on_Latent_Pose_Representations_for_CVPRW_2026_paper.pdf)]
+- The Impact of VAE Design on Latent Pose Representations for Diffusion-based Sign Language Production. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026W/GenSign/papers/Faure_The_Impact_of_VAE_Design_on_Latent_Pose_Representations_for_CVPRW_2026_paper.pdf)]
+- SignMoD: Sign Language Video Generation via Mixture of Diffusion [TPAMI-ccfa][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11539019)]
+
 ### 2025
 - Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/papers/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.pdf)]
 - Sign-Mamba: Advanced Mamba-Based Sign Language Generation. [ICASSP-ccfb][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890373)]
@@ -68,6 +75,8 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 - Deep Gesture Video Generation With Learning on Regions of Interest. [TMM-ccfb][[Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3352587)]
 
 ## Sign Avater 
+### 2026
+- How2Sign-Synth3D: Markerless Holistic Sign Language Performance Capture and Synthetic Data for Dense Landmark Tracking. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Tempfli_How2Sign-Synth3D_Markerless_Holistic_Sign_Language_Performance_Capture_and_Synthetic_Data_CVPRF_2026_paper.pdf)]
 ### 2024
 - Expressive Gaussian Human Avatars from Monocular RGB Video. [NeurIPS-ccfa][[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0a85f2414e354f9d61ffea5705a8bbf4-Paper-Conference.pdf)]
 - Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
